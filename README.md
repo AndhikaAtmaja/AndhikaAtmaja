@@ -13,14 +13,14 @@
   </div>
 </header>
 
-# Highlight Project
+# Highlight Projects
 <table width="100%">
   <!--- === First Row === ---!>
   <thead>
   <!-- == Title Game == --!>
     <tr>
       <th width="50%"><b>Space Weld</b></th>
-      <th width="50%"><b>Archer-s-Retirement-Garden </b></th>
+      <th width="50%"><b>Archer's Retirement Garden</b></th>
     </tr>
   </thead>
   <tbody>
@@ -33,8 +33,8 @@
   <thead>
   <!-- == Title Game == --!>
     <tr>
-      <th width="50%"><b>Vedia-and-the-Wild-Echoes</b></th>
-      <th width="50%"><b>Cat Alone</b></th>
+      <th width="50%"><b>Vedia and the Wild Echoes</b></th>
+      <th width="50%"><b>MDC</b></th>
     </tr>
   </thead>
   <tbody>
