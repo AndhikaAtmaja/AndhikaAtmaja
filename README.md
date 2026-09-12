@@ -13,7 +13,7 @@
   </div>
 </header>
 
-# Highlight Projects
+<h1><div align="center"> Highlight Projects </h1></div>
 <table width="100%">
   <!--- === First Row === ---!>
   <thead>
