@@ -24,7 +24,6 @@
     </tr>
   </thead>
   <tbody>
-  <>
   <!-- === Description === --!>
     <tr>
       <td valign="text-top"><p align="center">Description Game of Space Weld,</p></td>
