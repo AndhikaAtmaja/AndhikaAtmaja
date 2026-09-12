@@ -24,20 +24,57 @@
     </tr>
   </thead>
   <tbody>
-  
+  <>
+  <!-- === Description === --!>
+    <tr>
+      <td valign="text-top"><p align="center">Description Game of Space Weld,</p></td>
+      <td valign="text-top"><p align="center">Description Game of Archer's Retirement Garden.</p></td>
+    </tr>
+  <!-- === Documentation + Playable/Download Row === -->
+    <tr>
+      <td valign="top">
+        <p align="center">
+          Documentation Game of Space Weld<br>
+          Playable / Download Game of Space Weld
+        </p>
+      </td>
+      <td valign="top">
+        <p align="center">
+          Documentation Game of Archer's Retirement Garden<br>
+          Playable / Download Game of Archer's Retirement Garden
+      </td>
+    </tr>
   </tbody>
 </table>
 
 <table width="100%">
-  <!--- === First Row === ---!>
+  <!-- === Header Row === -->
   <thead>
-  <!-- == Title Game == --!>
     <tr>
       <th width="50%"><b>Vedia and the Wild Echoes</b></th>
       <th width="50%"><b>MDC</b></th>
     </tr>
   </thead>
   <tbody>
-  
+    <!-- === Description Row === -->
+    <tr>
+      <td valign="top"><p align="center">Description Game of Vedia and the Wild Echoes.</p></td>
+      <td valign="top"><p align="center">Description Game of MDC.</p></td>
+    </tr>
+    <!-- === Documentation + Playable/Download Row === -->
+    <tr>
+      <td valign="top">
+        <p align="center">
+          Documentation Game of Vedia and the Wild Echoes<br>
+          Playable / Download Game of Vedia and the Wild Echoes
+        </p>
+      </td>
+      <td valign="top">
+        <p align="center">
+          Documentation Game of MDC<br>
+          Playable / Download Game of MDC
+        </p>
+      </td>
+    </tr>
   </tbody>
 </table>
