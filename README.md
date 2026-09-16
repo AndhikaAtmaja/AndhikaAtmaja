@@ -2,22 +2,6 @@
   <div class="role">GAME PROGRAMMER · UNITY</div>
   <h1>Andhika Dwi Atmaja Risitiantyo</h1>
   <p>Hello! I'm Andhika, a Game Programmer and a student at Bina Nusantara University, with solid experience in Unity Game Engine. I have strong skills in 2D game development and currently passionate about creating 3D games.</p>
-  <br>
-  <div align="center">  
-    <p>How to reach me and my another project</p> 
-  </div>
-  <div align="center">    
-    <div class="links">
-      <a href="https://www.linkedin.com/in/andhika-dwi-atmaja-ristiantyo-a1440b326/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-      &nbsp;
-      <a href="mailto:andhikaristiantyo51@gmail.com">Email</a>
-      &nbsp;
-      <a href="https://github.com/AndhikaAtmaja" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-      &nbsp;
-      <a href="https://zerostwos.itch.io" target="_blank"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" /></a>
-      &nbsp;
-    </div>
-  </div>
 </header>
 
 <h1><div align="center"> Highlight Projects </h1></div>
@@ -84,4 +68,22 @@
       </tr>
     </tbody>
   </table>
+
+<br>
+  <div align="center">  
+    <p>How to reach me and my another project</p> 
+  </div>
+<div align="center">    
+    <div class="links">
+      <a href="https://www.linkedin.com/in/andhika-dwi-atmaja-ristiantyo-a1440b326/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+      &nbsp;
+      <a href="mailto:andhikaristiantyo51@gmail.com">Email</a>
+      &nbsp;
+      <a href="https://github.com/AndhikaAtmaja" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+      &nbsp;
+      <a href="https://zerostwos.itch.io" target="_blank"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" /></a>
+      &nbsp;
+    </div>
+  </div>
+  
 </div>
