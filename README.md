@@ -1,5 +1,4 @@
 <header>
-  <div class="role">GAME PROGRAMMER · UNITY</div>
   <h1>Andhika Dwi Atmaja Risitiantyo</h1>
   <p>Hello! I'm Andhika, a Game Programmer and a student at Bina Nusantara University, with solid experience in Unity Game Engine. I have strong skills in 2D game development and currently passionate about creating 3D games.</p>
 </header>
