@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="style.css">
-
 <header>
   <div class="role">GAME PROGRAMMER · UNITY</div>
   <h1>Andhika Dwi Atmaja Risitiantyo</h1>
