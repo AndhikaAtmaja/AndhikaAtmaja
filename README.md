@@ -15,6 +15,15 @@
       </tr>
     </thead>
     <tbody>
+     <!-- === Image / Gif === --!>
+      <tr>
+        <td align="center">
+          <img src="URL_GAMBAR_ATAU_GIF_SPACE_WELD_DISINI" width="100%" alt="Space Weld Preview">
+        </td>
+        <td align="center">
+          <img src="URL_GAMBAR_ATAU_GIF_ARCHERS_GARDEN_DISINI" width="100%" alt="Archer's Retirement Garden Preview">
+        </td>
+      </tr>
     <!-- === Description === --!>
       <tr>
         <td valign="text-top"><p align="center">2D sci-fi maintenance gam. Play as a welding robot repairing hull breaches to keep the ship at full speed and reach each destination on time.</p></td>
@@ -44,6 +53,15 @@
         <th width="50%"><b>MDC</b></th>
       </tr>
     </thead>
+     <!-- === Image / Gif === --!>
+      <tr>
+        <td align="center">
+          <img src="URL_GAMBAR_ATAU_GIF_SPACE_WELD_DISINI" width="100%" alt="Vedia and the Wild Echoes Preview">
+        </td>
+        <td align="center">
+          <img src="URL_GAMBAR_ATAU_GIF_ARCHERS_GARDEN_DISINI" width="100%" alt="MDC Garden Preview">
+        </td>
+      </tr>
     <tbody>
       <!-- === Description Row === -->
       <tr>
