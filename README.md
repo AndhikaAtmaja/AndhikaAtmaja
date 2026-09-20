@@ -47,8 +47,8 @@
     <tbody>
       <!-- === Description Row === -->
       <tr>
-        <td valign="top"><p align="center">A 2D satirical office sim where you drag-and-drop files under ever-changing management, as human supervisors are gradually replaced by AI.</p></td>
         <td valign="top"><p align="center">A serious audio-puzzle 3D game where players monitor an Indonesian forest through Passive Acoustic Monitoring (PAM) devices, deciphering wildlife and threat sounds.</p></td>
+        <td valign="top"><p align="center">A 2D satirical office sim where you drag-and-drop files under ever-changing management, as human supervisors are gradually replaced by AI.</p></td>
       </tr>
       <!-- === Documentation + Playable/Download Row === -->
       <tr>
