@@ -78,7 +78,7 @@
         </td>
         <td valign="top">
           <p align="center">
-            <a href="https://github.com/KrapuRED/SpaceWelder" class="btn btn-documentation">Documentation</a><br></br>
+            <a href="https://github.com/KrapuRED/MDC" class="btn btn-documentation">Documentation</a><br></br>
             <a href="https://triugames.itch.io/mdc"><img src="https://img.shields.io/badge/▶%20Play%20Game-e53935?style=for-the-badge&logoColor=white"></a></p></td>
           </p>
         </td>
