@@ -18,10 +18,10 @@
      <!-- === Image / Gif === --!>
       <tr>
         <td align="center">
-          <img src="URL_GAMBAR_ATAU_GIF_SPACE_WELD_DISINI" width="100%" alt="Space Weld Preview">
+         <img width="532" height="288" alt="Image" src="https://github.com/user-attachments/assets/f5ab4dda-c6cc-4171-97fa-4dabf12170ce"/ alt="Space Weld Preview">
         </td>
         <td align="center">
-          <img src="URL_GAMBAR_ATAU_GIF_ARCHERS_GARDEN_DISINI" width="100%" alt="Archer's Retirement Garden Preview">
+          <img width="532" height="288" alt="Image" src="https://github.com/user-attachments/assets/0f01cbc7-98c9-41c1-9681-7a24e2956b69"/ alt="Archer's Retirement Garden Preview">
         </td>
       </tr>
     <!-- === Description === --!>
