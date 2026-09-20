@@ -17,8 +17,8 @@
     <tbody>
     <!-- === Description === --!>
       <tr>
-        <td valign="text-top"><p align="center">Description Game of Space Weld,</p></td>
-        <td valign="text-top"><p align="center">Description Game of Archer's Retirement Garden.</p></td>
+        <td valign="text-top"><p align="center">2D sci-fi maintenance gam. Play as a welding robot repairing hull breaches to keep the ship at full speed and reach each destination on time.</p></td>
+        <td valign="text-top"><p align="center">A Garden Building + Tower Defense 3D game where a retired Archer Hero builds a garden by day and defends the Life Tree from monster waves by night.</p></td>
       </tr>
     <!-- === Documentation + Playable/Download Row === -->
       <tr>
@@ -47,8 +47,8 @@
     <tbody>
       <!-- === Description Row === -->
       <tr>
-        <td valign="top"><p align="center">Description Game of Vedia and the Wild Echoes.</p></td>
-        <td valign="top"><p align="center">Description Game of MDC.</p></td>
+        <td valign="top"><p align="center">A 2D satirical office sim where you drag-and-drop files under ever-changing management, as human supervisors are gradually replaced by AI.</p></td>
+        <td valign="top"><p align="center">A serious audio-puzzle 3D game where players monitor an Indonesian forest through Passive Acoustic Monitoring (PAM) devices, deciphering wildlife and threat sounds.</p></td>
       </tr>
       <!-- === Documentation + Playable/Download Row === -->
       <tr>
