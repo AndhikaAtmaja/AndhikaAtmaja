@@ -30,14 +30,14 @@
           <p align="justify">2D sci-fi maintenance gam. 
           Play as a welding robot repairing hull breaches to keep the ship at full speed and a time-based performance rating system.
           I worked on the part for the movenemnt robot that using rail-base system, welding mechanic, and rating system by time arriving.</p>
-          <p align="justify"><b>⏳ Duration:</b> [Tulis Durasi di Sini, misal: 2 Months]</p>
+          <p align="justify"><b>⏳ Duration:</b> 6 Days</p>
         </td>
         <td valign="text-top">
           <p align="justify">
           A Garden Building + Tower Defense 3D game where a retired Archer Hero builds a garden by day and defends the Life Tree from monster waves by night.
           Programmed the grid, combat, and skill card systems, along with a dynamic pricing model for planting and upgrading garden objects.  
           </p>
-          <p align="justify"><b>⏳ Duration:</b> [Tulis Durasi di Sini, misal: 3 Months]</p>
+          <p align="justify"><b>⏳ Duration:</b> 20 Days</p>
         </td>
       </tr>
     <!-- === Documentation + Playable/Download Row === -->
@@ -82,14 +82,14 @@
           A serious audio-puzzle 3D game where players monitor an Indonesian forest through Passive Acoustic Monitoring (PAM) devices, deciphering wildlife and threat sounds.<br>
           I worked on the PAM System, .
           </p>
-          <p align="justify"><b>⏳ Duration:</b> [Tulis Durasi di Sini, misal: 1 Month]</p>
+          <p align="justify"><b>⏳ Duration:</b> 10 Days</p>
         </td>
         <td valign="top">
           <p align="justify">
           A 2D satirical office sim where you drag-and-drop files under ever-changing management, as human supervisors are gradually replaced by AI.
           I worked on the data grouping and file systems, data collision mechanics, an auto-following camera, and the AI assistant buff system. 
           </p>
-          <p align="justify"><b>⏳ Duration:</b> [Tulis Durasi di Sini, misal: 2 Weeks]</p>
+          <p align="justify"><b>⏳ Duration:</b> 2 Days</p>
         </td>
       </tr>
       <!-- === Documentation + Playable/Download Row === -->
