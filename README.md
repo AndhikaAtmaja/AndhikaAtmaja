@@ -24,10 +24,21 @@
           <img width="390" height="244" alt="Image" src="https://github.com/user-attachments/assets/0f01cbc7-98c9-41c1-9681-7a24e2956b69"/ alt="Archer's Retirement Garden Preview">
         </td>
       </tr>
-    <!-- === Description === --!>
+    <<!-- === Description === --!>
       <tr>
-        <td valign="text-top"><p align="justify">2D sci-fi maintenance gam. Play as a welding robot repairing hull breaches to keep the ship at full speed and reach each destination on time.</p></td>
-        <td valign="text-top"><p align="justify">A Garden Building + Tower Defense 3D game where a retired Archer Hero builds a garden by day and defends the Life Tree from monster waves by night.</p></td>
+        <td valign="text-top">
+          <p align="justify">2D sci-fi maintenance gam. 
+          Play as a welding robot repairing hull breaches to keep the ship at full speed and reach each destination on time.
+          I make the part for the movenemnt robot that using railing point system, welding mechanic, and rating system by time arriving.</p><br>
+          <p align="justify"><b>⏳ Duration:</b> 6 Days</p>
+        </td>
+        <td valign="text-top">
+          <p align="justify">
+          A Garden Building + Tower Defense 3D game where a retired Archer Hero builds a garden by day and defends the Life Tree from monster waves by night.
+          I make Grid System, SKill / Skill card and Combat System, and Dycinamic price for upgrade and plant/Garden Object.  
+          </p>
+          <p align="justify"><b>⏳ Duration:</b> 20 Days</p>
+        </td>
       </tr>
     <!-- === Documentation + Playable/Download Row === -->
       <tr>
@@ -63,10 +74,22 @@
         </td>
       </tr>
     <tbody>
-      <!-- === Description Row === -->
+   <!-- === Description Row === -->
       <tr>
-        <td valign="top"><p align="justify">A serious audio-puzzle 3D game where players monitor an Indonesian forest through Passive Acoustic Monitoring (PAM) devices, deciphering wildlife and threat sounds.</p></td>
-        <td valign="top"><p align="justify">A 2D satirical office sim where you drag-and-drop files under ever-changing management, as human supervisors are gradually replaced by AI.</p></td>
+        <td valign="top">
+          <p align="justify">
+          A serious audio-puzzle 3D game where players monitor an Indonesian forest through Passive Acoustic Monitoring (PAM) devices, deciphering wildlife and threat sounds.<br>
+          I worked in the PAM System.
+          </p>
+          <p align="justify"><b>⏳ Duration:</b> 10 Days</p>
+        </td>
+        <td valign="top">
+          <p align="justify">
+          A 2D satirical office sim where you drag-and-drop files under ever-changing management, as human supervisors are gradually replaced by AI.
+          I Workon the Data group and File System, data collide mechanic, camera auto follow cursor, and AI Assistan buff System 
+          </p>
+          <p align="justify"><b>⏳ Duration:</b> 2 Days</p>
+        </td>
       </tr>
       <!-- === Documentation + Playable/Download Row === -->
       <tr>
