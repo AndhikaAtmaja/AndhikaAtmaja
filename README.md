@@ -79,9 +79,9 @@
       <tr>
         <td valign="top">
           <p align="justify">
-          A serious audio-puzzle 3D game where players monitor an Indonesian forest through Passive Acoustic Monitoring (PAM) devices, deciphering wildlife and threat sounds.<br>
+          A serious audio-puzzle 3D game where players monitor an Indonesian forest through Passive Acoustic Monitoring (PAM) devices, deciphering wildlife and threat sounds.
           I worked on the PAM System, .
-          </p>
+          </p><br>
           <p align="justify"><b>⏳ Duration:</b> 10 Days</p>
         </td>
         <td valign="top">
