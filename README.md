@@ -24,20 +24,20 @@
           <img width="390" height="244" alt="Image" src="https://github.com/user-attachments/assets/0f01cbc7-98c9-41c1-9681-7a24e2956b69"/ alt="Archer's Retirement Garden Preview">
         </td>
       </tr>
-    <<!-- === Description === --!>
+    <!-- === Description === --!>
       <tr>
         <td valign="text-top">
           <p align="justify">2D sci-fi maintenance gam. 
-          Play as a welding robot repairing hull breaches to keep the ship at full speed and reach each destination on time.
-          I make the part for the movenemnt robot that using railing point system, welding mechanic, and rating system by time arriving.</p><br>
-          <p align="justify"><b>⏳ Duration:</b> 6 Days</p>
+          Play as a welding robot repairing hull breaches to keep the ship at full speed and a time-based performance rating system.
+          I worked on the part for the movenemnt robot that using rail-base system, welding mechanic, and rating system by time arriving.</p>
+          <p align="justify"><b>⏳ Duration:</b> [Tulis Durasi di Sini, misal: 2 Months]</p>
         </td>
         <td valign="text-top">
           <p align="justify">
           A Garden Building + Tower Defense 3D game where a retired Archer Hero builds a garden by day and defends the Life Tree from monster waves by night.
-          I make Grid System, SKill / Skill card and Combat System, and Dycinamic price for upgrade and plant/Garden Object.  
+          Programmed the grid, combat, and skill card systems, along with a dynamic pricing model for planting and upgrading garden objects.  
           </p>
-          <p align="justify"><b>⏳ Duration:</b> 20 Days</p>
+          <p align="justify"><b>⏳ Duration:</b> [Tulis Durasi di Sini, misal: 3 Months]</p>
         </td>
       </tr>
     <!-- === Documentation + Playable/Download Row === -->
@@ -45,13 +45,14 @@
         <td valign="top">
           <p align="center">
             <a href="https://github.com/KrapuRED/SpaceWelder" class="btn btn-primary">Documentation</a><br></br>
-           <a href="https://triugames.itch.io/space-weld"><img src="https://img.shields.io/badge/▶%20Play%20Game-e53935?style=for-the-badge&logoColor=white"></a></p></td>
+           <a href="https://triugames.itch.io/space-weld"><img src="https://img.shields.io/badge/▶%20Play%20Game-e53935?style=for-the-badge&logoColor=white"></a>
           </p>
         </td>
         <td valign="top">
           <p align="center">
             <a href="https://github.com/KrapuRED/Archer-s-Retirement-Garden" class="btn btn-documentation">Documentation</a><br></br>
-            <a href="https://triugames.itch.io/archers-retirement-garden"><img src="https://img.shields.io/badge/▶%20Play%20Game-e53935?style=for-the-badge&logoColor=white"></a></p></td>
+            <a href="https://triugames.itch.io/archers-retirement-garden"><img src="https://img.shields.io/badge/▶%20Play%20Game-e53935?style=for-the-badge&logoColor=white"></a>
+          </p>
         </td>
       </tr>
     </tbody>
@@ -74,21 +75,21 @@
         </td>
       </tr>
     <tbody>
-   <!-- === Description Row === -->
+      <!-- === Description Row === -->
       <tr>
         <td valign="top">
           <p align="justify">
           A serious audio-puzzle 3D game where players monitor an Indonesian forest through Passive Acoustic Monitoring (PAM) devices, deciphering wildlife and threat sounds.<br>
-          I worked in the PAM System.
-          </p><br>
-          <p align="justify"><b>⏳ Duration:</b> 10 Days</p>
+          I worked on the PAM System, .
+          </p>
+          <p align="justify"><b>⏳ Duration:</b> [Tulis Durasi di Sini, misal: 1 Month]</p>
         </td>
         <td valign="top">
           <p align="justify">
           A 2D satirical office sim where you drag-and-drop files under ever-changing management, as human supervisors are gradually replaced by AI.
-          I Workon the Data group and File System, data collide mechanic, camera auto follow cursor, and AI Assistan buff System 
+          I worked on the data grouping and file systems, data collision mechanics, an auto-following camera, and the AI assistant buff system. 
           </p>
-          <p align="justify"><b>⏳ Duration:</b> 2 Days</p>
+          <p align="justify"><b>⏳ Duration:</b> [Tulis Durasi di Sini, misal: 2 Weeks]</p>
         </td>
       </tr>
       <!-- === Documentation + Playable/Download Row === -->
@@ -102,7 +103,7 @@
         <td valign="top">
           <p align="center">
             <a href="https://github.com/KrapuRED/MDC" class="btn btn-documentation">Documentation</a><br></br>
-            <a href="https://triugames.itch.io/mdc"><img src="https://img.shields.io/badge/▶%20Play%20Game-e53935?style=for-the-badge&logoColor=white"></a></p></td>
+            <a href="https://triugames.itch.io/mdc"><img src="https://img.shields.io/badge/▶%20Play%20Game-e53935?style=for-the-badge&logoColor=white"></a>
           </p>
         </td>
       </tr>
